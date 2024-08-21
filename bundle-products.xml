@@ -1,12 +1,48 @@
 <Products>
 	<Product>
-		<id>8228645994734-bundle</id>
+		<id>sunglass-dailies-total-1-90-pack-bundle</id>
+		<title>Sunglasses + Dailies Total 1 90 Pack Bundle</title>
+		<link>https://www.contactme.net.au/products/sunglass-dailies-total-1-90-pack-bundle</link>
+		<description>Dailies Total 1® are daily disposable contact lenses. Dailies Total 1 are the first of a new generation of contact lenses. They were designed to alleviate the problem of lenses drying and causing ocular discomfort. Alcon have achieved this with the introduction of a revolutionary new lens material which incorporates a "water gradient" design. The lens has a variable water content with a lower water content in the centre of the lens while the outer most surface has a water content that approaches the cornea's natural water content. This means that the surface of the Total 1 lens has a particularly high degree of lubricity or slipperyness. This results in a high degree of comfort and oxygen permeability and is designed to provide all day moistness and freshness. Because of the increased lubricity totally dry fingers are essential to successfully remove these lenses from your eye.</description>
+		<price>450</price>
+		<compare_at_price>728</compare_at_price>
+		<image_link>https://www.contactme.net.au/cdn/shop/files/DailiesTotal1_x450.png?v=1714963047</image_link>
+		<categories>sunglasses, contact lenses</categories>
+		<inventory_quantity>1000</inventory_quantity>
+		<inventory_policy>1</inventory_policy>
+	</Product>
+	<Product>
+		<id>sunglass-biotrue-oneday-90-pack-bundle</id>
 		<title>Sunglasses + Biotrue OneDay 90 Pack Bundle</title>
 		<link>https://www.contactme.net.au/products/sunglass-biotrue-oneday-90-pack-bundle</link>
 		<description>BioTrue ONEday are daily wear contact lenses released by Bausch &amp; Lomb. Buy one box of 90 lenses. BioTrue One Day lenses have been developed with HyperGel, a material designed to mimic the lipid layer of the tear film. The outer surface of the lens has a similar water content to the cornea and is designed to mimic the tear film lipid layer. This reduces dehydration of the eye and maintains excellent and clear optical quality. The BioTrue daily contact lenses have high oxygen permeability without the need for silicone which means that the lenses are inherently more hydrating and comfortable. High breathability is essential to maintain good ocular health with clear, healthy eyes. BioTrue lenses incorporate a UV filter to absorb the majority of UVA and UVB radiation.</description>
 		<price>350</price>
 		<compare_at_price>670</compare_at_price>
 		<image_link>https://www.contactme.net.au/cdn/shop/files/BioTrue_239db864-de8f-4c45-aa98-904d38c166bc_x450.png?v=1714963035</image_link>
+		<categories>sunglasses, contact lenses</categories>
+		<inventory_quantity>1000</inventory_quantity>
+		<inventory_policy>1</inventory_policy>
+	</Product>
+	<Product>
+		<id>sunglass-ultra-oneday-90-pack-bundle</id>
+		<title>Sunglasses + Ultra OneDay 90 Pack Bundle</title>
+		<link>https://www.contactme.net.au/products/sunglass-ultra-oneday-90-pack-bundle</link>
+		<description>Only Bausch + Lomb ULTRA® ONE DAY contact lenses offer a complete system with two breakthrough technologies that work in synergy with the tear film – to deliver outstanding comfort for 16 hours and a stable and healthy ocular surface environment. The new silicone hydrogel lenses take the original MoistureSeal Technology to the next level, incorporating Advanced MoistureSeal Technology with UV blocking properties for long lasting comfort and protection. </description>
+		<price>450</price>
+		<compare_at_price>728</compare_at_price>
+		<image_link>https://www.contactme.net.au/cdn/shop/files/UltraOneday_x450.png?v=1714963068</image_link>
+		<categories>sunglasses, contact lenses</categories>
+		<inventory_quantity>1000</inventory_quantity>
+		<inventory_policy>1</inventory_policy>
+	</Product>
+	<Product>
+		<id>sunglass-myday-oneday-90-pack-bundle</id>
+		<title>Sunglasses + MyDay OneDay 90 Pack Bundle</title>
+		<link>https://www.contactme.net.au/products/sunglass-myday-oneday-90-pack-bundle</link>
+		<description>Thanks to oxygen-efficient Smart Silicone™ chemistry, MyDay lenses deliver the optimal balance of breathability, comfort and easy handling *Silicone hydrogel with high oxygen transmissibility *Easy handling *UV inhibitor* MyDay daily disposable. Delivers on everything. Compromises on nothing. *High water content and a naturally wettable surface without a coating or internal wetting agent. *Modulus – soft like a hydrogel lens, but with the handling of a silicone hydrogel *Optimal oxygen permeability for a daily disposable lens</description>
+		<price>450</price>
+		<compare_at_price>728</compare_at_price>
+		<image_link>https://www.contactme.net.au/cdn/shop/files/MydayCooperVision_x450.png?v=1714963057</image_link>
 		<categories>sunglasses, contact lenses</categories>
 		<inventory_quantity>1000</inventory_quantity>
 		<inventory_policy>1</inventory_policy>
